@@ -45,7 +45,7 @@
 ### Xác nhận gmail
    
    <p align="center">
-   <img src="https://user-images.githubusercontent.com/61972142/105830515-2ad40c00-5ff8-11eb-907f-3043bc2af7aa.png" height = "400" width="200">
+   <img src="https://user-images.githubusercontent.com/61972142/105830515-2ad40c00-5ff8-11eb-907f-3043bc2af7aa.png" height = "480" width="270">
    </p>
     
 ### TÌm lại mật khẩu
